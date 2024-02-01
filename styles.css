@@ -153,6 +153,10 @@ nav {
   .right-navbar {
     min-width: 30%;
   }
+  .navbar {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
   .home-container {
     min-height: 400px;
     padding-top: 2rem;
@@ -168,6 +172,10 @@ nav {
     margin: auto;
 
     background-position: center;
+  }
+  .navbar {
+    padding-left: 10px;
+    padding-right: 10px;
   }
   .right-navbar {
     min-width: 50%;
